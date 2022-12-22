@@ -34,7 +34,7 @@
     "babel-runtime": "^5.1.10",
     "benchmark": "~1.0",
     "dtslint": "^0.5.5",
-    "dustjs-linkedin": "^2.0.2",
+    "dustjs-linkedin": "^3.0.0",
     "eco": "~1.1.0-rc-3",
     "grunt": "^1.0.3",
     "grunt-babel": "^5.0.0",
